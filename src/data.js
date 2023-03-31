@@ -1,0 +1,38 @@
+export default [
+    {
+        id: 1,
+        img: "/src/assets/img/pictures/01.jpg",
+        name: "«Рождение Венеры» Сандро Боттичелли",
+        previousPrice: "2 000 000 $",
+        currentPrice: "1 000 000 $",
+        info: "Картина итальянского художника тосканской школы Сандро Боттичелли.",
+        status: 'available',
+    },
+    {
+        id: 2,
+        img: "/src/assets/img/pictures/02.jpg",
+        name: "«Тайная вечеря»  Леонардо да Винчи",
+        previousPrice: "",
+        currentPrice: "3 000 000 $",
+        info: "Монументальная роспись работы Леонардо да Винчи",
+        status: 'available',
+    },
+    {
+        id: 3,
+        img: "/src/assets/img/pictures/03.jpg",
+        name: "«Сотворение Адама» Микеланджело",
+        previousPrice: "6 000 000 $",
+        currentPrice: "5 000 000 $",
+        info: "четвертая из девяти центральных композиций цикла фресок Микеланджело на тему сотворения мира",
+        status: 'available',
+    },
+    {
+        id: 4,
+        img: "/src/assets/img/pictures/04.jpg",
+        name: "«Урок анатомии»  Рембрандт",
+        previousPrice: "2 000 000 $",
+        currentPrice: "1 000 000 $",
+        info: "Среди наиболее известных групповых портретов эпохи голландского барокко числится “Урок анатомии доктора Тульпа”",
+        status: 'sold_out',
+    },
+]
